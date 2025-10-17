@@ -2,6 +2,9 @@ Business Communication Reflection
 
 Evidence:
 
+evidence/Business Communication/email_timesheet.png
+
+
 Screenshot of professional email sent to supervisor regarding timesheet submission – View Screenshot
 
 
