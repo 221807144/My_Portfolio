@@ -1,8 +1,9 @@
 Business Communication Reflection
 
 Evidence:
+Screenshort 
+[email] (../evidence/Business Communication/email_timesheet.png)
 
-evidence/Business Communication/email_timesheet.png
 
 
 Screenshot of professional email sent to supervisor regarding timesheet submission – View Screenshot
