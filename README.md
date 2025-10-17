@@ -6,7 +6,7 @@
 
 ---
 
-## Portfolio Sections 🗂️
+## Evidence 🗂️
 
 - [Business Communication ✉️](evidence/Business%20Communication)  
 - [Interview Skills 🎤](evidence/Interview_Skills)  
