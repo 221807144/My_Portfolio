@@ -16,7 +16,7 @@ The portfolio demonstrates my ability to organize, reflect, and present professi
 
 ## Portfolio Sections 🗂️
 
-### 1. [Business Communication](./evidence/business_communication) ✉️
+### 1. [Business Communication](.evidence/Business Communication) ✉️
 Emails, formal documents, and professional correspondence that show effective workplace communication.
 
 ### 2. [Interview Skills](./evidence/interview_skills) 🎤
