@@ -3,7 +3,7 @@ Business Communication Reflection
 Evidence:
 Screenshort 
 
-[View Screenshot](..evidence/Business Communication/email_timesheet.png)
+[View Screenshot](..evidence/Business Communication/email_timesheet.png.png)
 
 
 
