@@ -1,7 +1,7 @@
 # Project Presentation 3 — Digital Portfolio 📁
 
 *Course Code:* PRP372S  
-*Student Name:* Masibuve Sikhulume   
+*Student Name:* Masibuve Sikhulume  
 *Student Number:* 221807144  
 
 ---
@@ -16,31 +16,21 @@ The portfolio demonstrates my ability to organize, reflect, and present professi
 
 ## Portfolio Sections 🗂️
 
-### 1. [Business Communication](.evidence/Business Communication) ✉️
-Emails, formal documents, and professional correspondence that show effective workplace communication.
-
-### 2. [Interview Skills](./evidence/interview_skills) 🎤
-Practice interview answers, mock interview preparation notes, and STAR reflections.
-
-### 3. [Mock Interview](./evidence/mock_interview) 🎬
-Evidence from mock interviews, feedback received, and reflections on personal performance.
-
-### 4. [Professional Networking](./evidence/professional_networking) 🌐
-Screenshots of professional communication, LinkedIn networking, and supervisor correspondence.
-
-### 5. [Workplace Etiquette](./evidence/workplace_etiquette) 🏢
-Timesheets, supervisor feedback, and reflections showing professionalism and adaptability.
+- [Business Communication ✉️](evidence/Business Communication)  
+- [Interview Skills 🎤](evidence/Interview_Skills)  
+- [Mock Interview 🎬](evidence/Mock Interview)  
+- [Professional Networking 🌐](evidence/Professional Networkng)  
+- [Workplace Etiquette 🏢](evidence/Workplace Etiquette)  
 
 ---
 
 ## Reflections 📝
-Each section includes a *STAR reflection* (Situation, Task, Action, Result) to show how I learned and grew through each experience.
 
-1. [Business Communication Reflection](reflections/business_communication.md) ✉️  
-2. [Interview Skills Reflection](reflections/interview_skills.md) 🎤  
-3. [Mock Interview Reflection](reflections/mock_interview.md) 🎬  
-4. [Professional Networking Reflection](reflections/professional_networking.md) 🌐  
-5. [Workplace Etiquette Reflection](reflections/workplace_etiquette.md) 🏢
+- [Business Communication Reflection ✉️](Reflection/Business Communication.md)  
+- [Interview Skills Reflection 🎤](Reflection/Interview Skills.md)  
+- [Mock Interview Reflection 🎬](Reflection/Mock Interview.md)  
+- [Professional Networking Reflection 🌐](Reflection/Professional Networking.md)  
+- [Workplace Etiquette Reflection 🏢](Reflection/Workplace Etiquette.md)  
 
 ---
 
